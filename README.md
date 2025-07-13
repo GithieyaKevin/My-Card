@@ -1,3 +1,6 @@
+
+<img width="378" height="438" alt="Flutter" src="https://github.com/user-attachments/assets/d71915de-8edb-488a-bce1-f35f1092de70" />
+
 # practice
 
 A new Flutter project.
